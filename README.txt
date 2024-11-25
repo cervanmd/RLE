@@ -3,7 +3,8 @@ Regresión Logística en Python (ESPAÑOL)
 
 
 Explicación de las variables en el dataset:
-% INFORMACIÓN RELEVANTE
+
+
 %			age		-	age	
 %			bp		-	blood pressure
 %			sg		-	specific gravity
